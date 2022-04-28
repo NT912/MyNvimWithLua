@@ -25,7 +25,8 @@ Step 3: Run this following command:
 ```
 nvim +PackerInstall
 ```
-Step 4: Chose Y to install my Nvim and wait your computer to work.
+Step 4: Chose Y to install this Nvim and wait your computer to work.
+
 Step 5: Done!
 
 # Optional
