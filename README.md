@@ -1,4 +1,9 @@
 # Truong's Nvim
+----------------------------------------------------------
+# Screenshots
+<img src="https://github.com/NT912/MyNvimWithLua/blob/main/ScreenShot/Screen%20Shot%202022-04-28%20at%2010.18.37.png">
+<img src="https://github.com/NT912/MyNvimWithLua/blob/main/ScreenShot/Screen%20Shot%202022-04-28%20at%2010.18.59.png">
+<img src="https://github.com/NT912/MyNvimWithLua/blob/main/ScreenShot/Screen%20Shot%202022-04-28%20at%2010.19.42.png">
 
 # Requirements
 - Neovim (version >= 0.6.0 or nightly version), run nvim -v to check neovim version.
